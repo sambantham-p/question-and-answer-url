@@ -1,8 +1,8 @@
-fitz==0.0.1.dev2
-langchain==0.0.335
-python-dotenv==1.0.0
-streamlit==1.28.2
-torch>=2.2.0
-torch_xla>=2.2.0
-tqdm==4.66.1
-transformers==4.36.2
+fitz
+langchain
+python-dotenv
+streamlit
+torch
+torch_xla
+tqdm
+transformers
