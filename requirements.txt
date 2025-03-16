@@ -1,13 +1,8 @@
-# Ensure Python 3.10 compatibility
-pip==23.0.1
-setuptools==67.6.1
-wheel==0.40.0
-
 fitz==0.0.1.dev2
 langchain==0.0.335
 python-dotenv==1.0.0
 streamlit==1.28.2
-torch==2.1.2
-torch_xla==2.2.0
+torch>=2.2.0
+torch_xla>=2.2.0
 tqdm==4.66.1
 transformers==4.36.2
